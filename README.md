@@ -1,3 +1,6 @@
+My start on a professional website using react with the material-ui theming library. This website will have my future projects, resume and a about me page. 
+_______
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
